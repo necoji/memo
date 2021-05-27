@@ -3,6 +3,7 @@
     "name": "memo",
     "slug": "memo",
     "version": "1.0.0",
+    "privacy": "unlisted",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
